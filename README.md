@@ -128,7 +128,7 @@ Currently on a two phase plan: get hired, learn everything a classroom can't tea
 
 <div align="center">
 
-### [Brain.exe](https://github.com/Abhyudeyksyp/Brain-exe)
+### [Brain.exe](https://www.brainexe.online/)
 
 *a personal blog that refused to look like a personal blog*
 
