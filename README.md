@@ -19,7 +19,7 @@ $ whoami
 ```
 > booting persona.exe ..................... [ OK ]
 > loading caffeine module .................. [ OK ]
-> checking cgpa ............................ [ 7.80 / 10.0 ]
+> checking cgpa ............................ [ 8.40 / 10.0 ]
 > current branch ........................... CSE, AI & ML
 > current year .............................. 3rd yr, SRM KTR
 > graduation target ......................... 2028
